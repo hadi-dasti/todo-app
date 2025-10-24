@@ -1,2 +1,2 @@
-nest js 
+Nest js
 typeorm
